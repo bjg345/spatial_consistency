@@ -1,2 +1,9 @@
 *.sh.*
 *rds
+*xcor*
+*xuncor*
+*avsg2*
+*area.png
+*gls.R
+*ols.R
+*geo.png
